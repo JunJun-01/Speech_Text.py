@@ -1,4 +1,4 @@
-Speech Input Using a Microphone and Translation of Speech to Text
+# Speech Input Using a Microphone and Translation of Speech to Text
 
 - Allow Adjusting for Ambient Noise: Since the surrounding noise varies, we must allow the program a second or too to adjust the energy threshold of recording so it is adjusted according to the external noise level.
 
